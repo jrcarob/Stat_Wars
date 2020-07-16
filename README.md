@@ -1,2 +1,2 @@
 # Stat_Wars
-Latex Template
+Funny Star Wars Latex Template
